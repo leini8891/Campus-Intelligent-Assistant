@@ -2,7 +2,7 @@
 
 > Your first day, planned.
 >
-> English README (current file) · [中文 README](README.zh-CN.md)
+> English README (current file) · [中文 README](README.zhCN.md)
 
 A locally runnable, demo-ready AI product demo. It is not a generic "Student
 Assistant" — it focuses on one real, high-frequency, high-pressure moment for a
